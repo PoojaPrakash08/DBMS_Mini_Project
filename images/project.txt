@@ -1,0 +1,9 @@
+
+To open shopping website:
+ http://localhost/mkshope
+
+To open admin panel:
+http://localhost/mkshope/admin
+
+username: admin
+password: admin

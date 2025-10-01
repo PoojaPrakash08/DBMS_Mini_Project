@@ -1,0 +1,5 @@
+to open website:
+http://localhost/online-shopping-system/
+
+for admin panel:
+http://localhost/online-shopping-system/admin/
